@@ -10,5 +10,10 @@ TypeScript × Next.jsの学習のため
 <br />
 **プロジェクトの起動：** <br />
 `yarn dev`を実行し、http://localhost:3000/ にアクセス
+<br />
+<br />
+**内容：** <br />
+- Jestを導入
+
     
     
